@@ -8,7 +8,7 @@ public class Main {
         //the connection options
         final String jdbcURL = "jdbc:mysql://localhost:3306/jdbc_users";
         final String username = "root";
-        final String password = "Helloelvin12@";
+        final String password = "password";
 
         //fields of user_table
         int id;
